@@ -1,0 +1,25 @@
+.login__box{
+
+    display: flex !important ;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+.google{
+    text-transform : none !important;
+    color : #000000 !important;
+}
+.g__image{
+    width:  25px !important;
+    height:  25px !important;
+}
+.g__text{
+    text-align : center !important;
+    font-size :19px !important
+}
+.hello{
+    display: flex !important ;
+    flex-direction: row !important;
+    align-items: center !important;
+   justify-content : space-around !important;
+   padding-top : 50px  !important
+}
